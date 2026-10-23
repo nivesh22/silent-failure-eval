@@ -1,0 +1,12 @@
+{
+  "stage": "extract",
+  "backend": "local",
+  "model": "qwen2.5:3b",
+  "local_url": "http://localhost:11434/v1",
+  "temperature": 0.0,
+  "max_tokens": 800,
+  "tasks_file": "data/tasks.jsonl",
+  "n_tasks": 30,
+  "started_utc": "2026-10-23T15:06:02.951391+00:00",
+  "note": "Quantization for local Ollama models is the Ollama default for the tag (Q4_K_M for qwen2.5:3b and llama3.2:3b)."
+}

@@ -1,0 +1,11 @@
+{
+  "stage": "verify",
+  "backend": "openai",
+  "model": "gpt-4.1-mini",
+  "local_url": null,
+  "temperature": 0.0,
+  "max_tokens": 800,
+  "extract_file": "results/raw/openai-gpt-4.1-mini.jsonl",
+  "n_tasks": 22,
+  "started_utc": "2026-10-23T15:55:10.584453+00:00"
+}

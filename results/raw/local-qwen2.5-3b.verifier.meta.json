@@ -1,0 +1,11 @@
+{
+  "stage": "verify",
+  "backend": "local",
+  "model": "qwen2.5:3b",
+  "local_url": "http://localhost:11434/v1",
+  "temperature": 0.0,
+  "max_tokens": 800,
+  "extract_file": "results/raw/local-qwen2.5-3b.jsonl",
+  "n_tasks": 22,
+  "started_utc": "2026-10-23T15:39:00.505673+00:00"
+}

@@ -1,0 +1,4 @@
+# No third-party dependencies.
+# run_eval.py and score.py use only the Python standard library (Python 3.9+).
+# Model access is over HTTP: OpenAI, Anthropic, or any OpenAI-compatible
+# local endpoint such as Ollama (https://ollama.com).
